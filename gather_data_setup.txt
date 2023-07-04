@@ -1,0 +1,13 @@
+#setup file for the code gather_data_iris.py
+
+band	i # the band in which the images are taken
+
+beg date		2023/01/20	# the date from with the gathering begins
+
+#end date	2023/03/16	# the date to which the gathering ends
+
+image shape	2048x2048	# the shape of the images wanted
+
+first capture only	true	# if True (or true), only the first capture of a set of images pointing as the same target the same day will be saved.
+
+folder name	test_final # name of the folder in which the images will be saved	

@@ -1,0 +1,7 @@
+# setup file for the code model_iris.py
+
+image folder	test_final # the image folder in which the code will take the images
+
+#number of samples	5 # number of samples created to make the fringe maps necessary for the model
+
+#model name	test # name of the model created with the previous images
