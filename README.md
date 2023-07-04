@@ -13,4 +13,7 @@ The project contains :
   - `gather_data_setup.txt`
   - `model_setup.txt`
   - `remove_fringing_setup.txt`
+- an xml file : `pairs.xml`
 - the documentation of the code : `documentation.pdf`
+
+To learn how to use the code, read the documentation.
