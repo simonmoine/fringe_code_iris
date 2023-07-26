@@ -14,6 +14,6 @@ The project contains:
   - `model_setup.txt`
   - `remove_fringing_setup.txt`
 - a xml file: `pairs.xml`
-- the documentation of the script: `documentation.pdf`
+- the documentation of the script: `Documentation.pdf`
 
 To learn how to use the code, read the documentation.
