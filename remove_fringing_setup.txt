@@ -1,0 +1,11 @@
+# setup file for the code remove_fringing_iris.py
+
+image name	m_81-S001-R001-C001-SDSS_i.fits # the name of the image you want to reduce
+
+#folder name	test_final # the name of the folder in which all the images will be reduced
+
+model name	modele_centre.fits # the name of the model used to reduce the image
+
+control pairs	pairs.xml # the name of the file containing the locations of the control pairs
+
+#box width	5 # the half-width of the boxes in which the code do the mean to calculate the pixel value at the end of a control pair

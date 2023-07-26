@@ -1,0 +1,7 @@
+# setup file for the code model_iris.py
+
+image folder	2023 # the image folder in which the code will take the images
+
+#number of samples	150 # number of samples created to make the fringe maps necessary for the model
+
+model name	test_2023_fco.fits # name of the model created with the previous images
